@@ -1,1 +1,1 @@
-# PHDomain-files
+# Dynamin1 PHDomain simulation setup files
